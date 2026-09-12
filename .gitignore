@@ -6,3 +6,7 @@
 node_modules/
 *.log
 *backup*.json
+.private/
+config.local.json
+credentials*.json
+client_secret*.json
